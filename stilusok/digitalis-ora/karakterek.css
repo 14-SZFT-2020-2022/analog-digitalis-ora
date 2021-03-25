@@ -1,0 +1,25 @@
+#oraTizes {
+    display: inline-block;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+
+#oraEgyes, #percTizes, #percEgyes, #kettosPont {
+    display: inline-block;
+    height: 50px;
+    margin-top: 50px;
+}
+
+#masodpercTizes {
+    display: inline-block;
+    height: 25px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+#masodpercEgyes {
+    display: inline-block;
+    height: 25px;
+    margin-top: 50px;
+}

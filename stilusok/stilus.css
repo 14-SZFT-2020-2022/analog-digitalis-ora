@@ -1,0 +1,9 @@
+#tarto {
+    margin: auto;
+    width: 600px;
+    height: 600px;
+    border: 1px solid #C60;
+    border-radius: 50%;
+    background-color: #FD6;
+    position: relative; 
+}
